@@ -1,0 +1,4 @@
+requests>=2.31.0
+lz4>=4.3.0
+py7zr>=0.20.0
+rarfile>=4.1
