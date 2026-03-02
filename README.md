@@ -88,6 +88,8 @@ Additional implementation and roadmap notes are tracked in [PROJECT_NOTES.md](PR
 
 Release process steps are tracked in [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md).
 
+Release history is tracked in [CHANGELOG.md](CHANGELOG.md).
+
 ## Filename Detection
 
 Nexus Mods downloads follow this naming convention:
