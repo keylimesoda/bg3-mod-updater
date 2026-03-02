@@ -82,6 +82,10 @@ python main.py
 | `config.py` | JSON config/cache management (ID mappings, skip lists, exclusions) |
 | `lspk_parser.py` | LSPK `.pak` file parser — reads `meta.lsx` for UUID, version, author |
 
+## Project Notes
+
+Additional implementation and roadmap notes are tracked in [PROJECT_NOTES.md](PROJECT_NOTES.md).
+
 ## Filename Detection
 
 Nexus Mods downloads follow this naming convention:
