@@ -86,6 +86,8 @@ python main.py
 
 Additional implementation and roadmap notes are tracked in [PROJECT_NOTES.md](PROJECT_NOTES.md).
 
+Release process steps are tracked in [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md).
+
 ## Filename Detection
 
 Nexus Mods downloads follow this naming convention:
